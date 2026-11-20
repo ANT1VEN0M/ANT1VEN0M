@@ -39,7 +39,7 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое обновление и загрузка в РФ без необходимости стороннего VPN.
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Веб-портал / Telegram Mini App (TMA)](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
-  * **Telegram Mini App (TMA):** работает прямо внутри Telegram с поддержкой тактильной отдачи (Haptics), авто-подстройкой темы и интерактивным переключателем фидов.
+  * **Telegram Mini App (TMA):** работает прямо внутри Telegram с поддержкой тактильной отдачи (Haptics), авто-подстройкой темы, интерактивным выбором фидов, живым замером пинга (Live Ping Meter), аварийным MTProto прокси и генерацией QR-кодов.
   * Проверяет **20 источников** каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
   * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Discord Voice & Gaming*, *Telegram SOS*.
   * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
