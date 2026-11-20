@@ -88,10 +88,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">⚡ Bunker-Auto-Engine & Web-Портал</a></h3>
-      <p>Автономный движок проверки 20 источников каждые 6 часов через Xray Core + веб-портал с 1-клик подключением для владельцев iPhone (Karing / Streisand) и ПК (Windows / Mac).</p>
+      <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">⚡ Bunker-Auto-Engine & Mini App</a></h3>
+      <p>Автономный автопилот на 20 источников + Telegram Mini App с Live-замером пинга, аварийным MTProto-прокси в 1 клик, QR-кодами и быстрым подключением для iPhone (Karing) и ПК (Hiddify).</p>
       <p>
-        <a href="https://ant1ven0m.github.io/Bunker-Auto-Engine/"><img src="https://img.shields.io/badge/Веб--Портал-1_клик-06B6D4?style=flat-square&logo=safari&logoColor=white" alt="Web Portal"/></a>
+        <a href="https://ant1ven0m.github.io/Bunker-Auto-Engine/"><img src="https://img.shields.io/badge/Mini_App-1_клик-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Mini App"/></a>
         <a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/Bunker-Auto-Engine?color=10B981&label=Автопилот&style=flat-square" alt="Engine Release"/></a>
       </p>
     </td>
