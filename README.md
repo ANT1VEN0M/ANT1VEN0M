@@ -43,6 +43,7 @@
   * Проверяет **28 источников** (включая зеркала AeryxVPN, незаблокируемый GitLab `hub.mos.ru` и агрегатор **mehdirzfx** на 1125+ фидов) каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
   * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Discord Voice & Gaming*, *Telegram SOS*.
   * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
+  * **Поддержка домашних роутеров (Keenetic, OpenWrt, MikroTik):** готовые `.conf` файлы WireGuard на порту 880 для работы YouTube 4K и Discord на Smart TV, консолях и ПК без VPN на каждом клиенте.
   * **Фикс Discord Voice (RTC / Стримы):** специализированный пул Hysteria 2 и Cloudflare WARP+ (Full-Cone UDP) без задержек и подвисаний.
 * ⚡ **[Bunker Parser](https://github.com/ANT1VEN0M/BunkerParser)** — высокоскоростной парсер и нормализатор конфигураций на Xray.
 * 🤖 **Bunker OS Bot ([@BunkerCatOSBot](https://t.me/BunkerCatOSBot))** — Telegram-бот Бункера для публикации конфигураций и быстрой поддержки.
