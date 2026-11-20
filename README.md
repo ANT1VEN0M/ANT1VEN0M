@@ -40,7 +40,7 @@
   * **Скоростные зеркала (`ghfast.top`):** прямое обновление и загрузка в РФ без необходимости стороннего VPN.
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Веб-портал / Telegram Mini App (TMA)](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
   * **Telegram Mini App (TMA):** работает прямо внутри Telegram с поддержкой тактильной отдачи (Haptics), авто-подстройкой темы, интерактивным выбором фидов, живым замером пинга (Live Ping Meter), аварийным MTProto прокси и генерацией QR-кодов.
-  * Проверяет **25 источников** (включая глобальный агрегатор **mehdirzfx** на 1125+ фидов) каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
+  * Проверяет **28 источников** (включая зеркала AeryxVPN, незаблокируемый GitLab `hub.mos.ru` и агрегатор **mehdirzfx** на 1125+ фидов) каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
   * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Discord Voice & Gaming*, *Telegram SOS*.
   * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
   * **Фикс Discord Voice (RTC / Стримы):** специализированный пул Hysteria 2 и Cloudflare WARP+ (Full-Cone UDP) без задержек и подвисаний.
@@ -89,7 +89,7 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">⚡ Bunker-Auto-Engine & Mini App</a></h3>
-      <p>Автономный автопилот на 25 источников + Telegram Mini App с Live-замером пинга, аварийным MTProto-прокси в 1 клик, QR-кодами и быстрым подключением для iPhone (Karing) и ПК (Hiddify).</p>
+      <p>Автономный автопилот на 28 источников + Telegram Mini App с Live-замером пинга, аварийным MTProto-прокси в 1 клик, QR-кодами и быстрым подключением для iPhone (Karing) и ПК (Hiddify).</p>
       <p>
         <a href="https://ant1ven0m.github.io/Bunker-Auto-Engine/"><img src="https://img.shields.io/badge/Mini_App-1_клик-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Mini App"/></a>
         <a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/Bunker-Auto-Engine?color=10B981&label=Автопилот&style=flat-square" alt="Engine Release"/></a>
