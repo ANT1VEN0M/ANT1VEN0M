@@ -40,8 +40,9 @@
   * **Скоростные зеркала (`ghfast.top`):** прямое обновление и загрузка в РФ без необходимости стороннего VPN.
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Веб-портал в 1 клик](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
   * Проверяет **20 источников** каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
-  * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Telegram SOS*.
+  * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Discord Voice & Gaming*, *Telegram SOS*.
   * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
+  * **Фикс Discord Voice (RTC / Стримы):** специализированный пул Hysteria 2 и Cloudflare WARP+ (Full-Cone UDP) без задержек и подвисаний.
 * ⚡ **[Bunker Parser](https://github.com/ANT1VEN0M/BunkerParser)** — высокоскоростной парсер и нормализатор конфигураций на Xray.
 * 🤖 **Bunker OS Bot ([@BunkerCatOSBot](https://t.me/BunkerCatOSBot))** — Telegram-бот Бункера для публикации конфигураций и быстрой поддержки.
 
