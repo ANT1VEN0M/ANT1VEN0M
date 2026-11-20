@@ -61,6 +61,7 @@
 ![Trojan](https://img.shields.io/badge/Trojan-10B981?style=flat-square&logo=lock&logoColor=white)
 ![Shadowsocks 2022](https://img.shields.io/badge/Shadowsocks_2022-06B6D4?style=flat-square&logo=shield&logoColor=white)
 ![XHTTP / gRPC](https://img.shields.io/badge/XHTTP_/_gRPC-F59E0B?style=flat-square&logo=fastapi&logoColor=white)
+![OpenVPN / NPV / DarkTunnel](https://img.shields.io/badge/OpenVPN_%E2%80%A2_NPVT_%E2%80%A2_DarkTunnel-8B5CF6?style=flat-square&logo=wireguard&logoColor=white)
 
 #### 💻 Разработка и инфраструктура
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
