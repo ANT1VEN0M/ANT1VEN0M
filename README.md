@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Architect+of+Bunker+VPN+%26+Bunker+Parser;%F0%9F%90%88%E2%80%8D%E2%AC%9B+VLESS+Reality+%E2%80%A2+Hysteria+2+%E2%80%A2+Shadowsocks+%E2%80%A2+Xray;%F0%9F%9A%80+Building+unbreakable+network+tunnels+%26+freedom" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+v1.3.9+Stealth+Edition+is+Live;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Windows+%26+Mac;%F0%9F%90%88%E2%80%8D%E2%AC%9B+VLESS+Reality+%E2%80%A2+Cloudflare+WARP%2B+(880)+%E2%80%A2+Xray;%F0%9F%9A%80+Building+unbreakable+network+tunnels+%26+freedom" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,11 +31,19 @@
 
 ### 🐈‍⬛ О проекте и экосистеме Бункера
 
-Разрабатываю передовые решения для обхода блокировок, интеллектуальной маршрутизации и высокоскоростного туннелирования трафика:
+Разрабатываю передовые открытые решения для высокоскоростного обхода блокировок, интеллектуальной маршрутизации и защиты трафика в условиях ТСПУ:
 
-* 🛡️ **[Bunker VPN (Android)](https://github.com/ANT1VEN0M/BunkerVPN)** — флагманский VPN-клиент на базе **Xray Core Lite**. Включает умный многопоточный балансировщик (Smart Balancer), неоновый Cyber-HUD спидометр, фильтры стран в 1 тап, бейджи задержки, встроенный белый список (БС) и тонкую настройку потоков пинга (до 128 потоков).
-* ⚡ **Bunker Parser** — автономный высокоскоростной чекер и нормализатор прокси на базе Xray. Проверяет ключи на реальный доступ к целевым сервисам (**YouTube, Telegram, ChatGPT, Gemini**) с глубокой валидацией и экспортом в форматы МИКС / ЧС / БС.
-* 🤖 **Bunker OS Bot** — распределительная бот-система в Telegram для безопасной и автоматизированной публикации конфигураций.
+* 🛡️ **[Bunker VPN (Android)](https://github.com/ANT1VEN0M/BunkerVPN)** — флагманский VPN-клиент на базе **Xray Core Lite** и Jetpack Compose.
+  * **Режим «Stealth» (v1.3.9):** чистый глубокий OLED-черный интерфейс (`#000000`), компактная шапка **48dp** без лишнего визуального шума и эмодзи.
+  * **Безотказный WARP+ на порту 880:** встроенная генерация WireGuard-аккаунтов Cloudflare с байтами рукопожатия `client_id`, работающая даже офлайн.
+  * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
+  * **Скоростные зеркала (`ghfast.top`):** прямое обновление и загрузка в РФ без необходимости стороннего VPN.
+* 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Веб-портал в 1 клик](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
+  * Проверяет **20 источников** каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
+  * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Telegram SOS*.
+  * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
+* ⚡ **[Bunker Parser](https://github.com/ANT1VEN0M/BunkerParser)** — высокоскоростной парсер и нормализатор конфигураций на Xray.
+* 🤖 **Bunker OS Bot ([@BunkerCatOSBot](https://t.me/BunkerCatOSBot))** — Telegram-бот Бункера для публикации конфигураций и быстрой поддержки.
 
 ---
 
@@ -45,40 +53,44 @@
 
 #### 🛰️ Протоколы туннелирования и обхода блокировок
 ![VLESS Reality](https://img.shields.io/badge/VLESS_Reality-7C3AED?style=flat-square&logo=cloudflare&logoColor=white)
+![WireGuard WARP+](https://img.shields.io/badge/WireGuard_WARP+_(Port_880)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Hysteria 2](https://img.shields.io/badge/Hysteria_2_(QUIC)-EF4444?style=flat-square&logo=speedtest&logoColor=white)
-![Shadowsocks 2022](https://img.shields.io/badge/Shadowsocks_2022-06B6D4?style=flat-square&logo=shield&logoColor=white)
 ![Trojan](https://img.shields.io/badge/Trojan-10B981?style=flat-square&logo=lock&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-881337?style=flat-square&logo=wireguard&logoColor=white)
+![Shadowsocks 2022](https://img.shields.io/badge/Shadowsocks_2022-06B6D4?style=flat-square&logo=shield&logoColor=white)
 ![XHTTP / gRPC](https://img.shields.io/badge/XHTTP_/_gRPC-F59E0B?style=flat-square&logo=fastapi&logoColor=white)
 
-#### 💻 Разработка и архитектура
+#### 💻 Разработка и инфраструктура
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_(Xray_Core)-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_/_Linux-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5 / JS](https://img.shields.io/badge/Web_Landing-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub Actions CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![jsDelivr CDN](https://img.shields.io/badge/jsDelivr_CDN-E84D3D?style=flat-square&logo=jsdelivr&logoColor=white)
 
 </div>
 
 ---
 
-### 🔥 Главный репозиторий
+### 🔥 Ключевые проекты экосистемы
 
 <table>
   <tr>
-    <td width="30%" align="center">
-      <img src="assets/bunker_cat.png" width="160" alt="Bunker Cat Logo"/>
-    </td>
-    <td width="70%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN">⚡ Bunker VPN for Android</a></h3>
-      <p>Сверхбыстрый, кастомизированный и стильный VPN-клиент нового поколения в стиле Cyberpunk с встроенным умным балансировщиком, live-мониторингом скорости, таймером сессий и гибким управлением потоками тестирования узлов.</p>
+    <td width="50%">
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN">📱 Bunker VPN for Android (v1.3.9)</a></h3>
+      <p>Официальный Android-клиент Бункера: Stealth-минимализм (OLED), встроенный Cloudflare WARP+ (порт 880), защита от утечек Kill-Switch, live-спидометр сессии и поддержка всех современных протоколов.</p>
       <p>
-        <img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN?color=7C3AED&label=Версия&style=flat-square" alt="Release"/>
-        <img src="https://img.shields.io/github/license/ANT1VEN0M/BunkerVPN?color=06B6D4&label=Лицензия&style=flat-square" alt="License"/>
-        <img src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform"/>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN?color=7C3AED&label=Релиз&style=flat-square" alt="Release"/></a>
+        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN/releases/download/v1.3.9/BunkerVPN-arm64-v8a.apk"><img src="https://img.shields.io/badge/Скачать-ARM64-10B981?style=flat-square&logo=android&logoColor=white" alt="Download ARM64"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">⚡ Bunker-Auto-Engine & Web-Портал</a></h3>
+      <p>Автономный движок проверки 20 источников каждые 6 часов через Xray Core + веб-портал с 1-клик подключением для владельцев iPhone (Karing / Streisand) и ПК (Windows / Mac).</p>
+      <p>
+        <a href="https://ant1ven0m.github.io/Bunker-Auto-Engine/"><img src="https://img.shields.io/badge/Веб--Портал-1_клик-06B6D4?style=flat-square&logo=safari&logoColor=white" alt="Web Portal"/></a>
+        <a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/Bunker-Auto-Engine?color=10B981&label=Автопилот&style=flat-square" alt="Engine Release"/></a>
       </p>
     </td>
   </tr>
@@ -94,12 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANT1VEN0M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" height="165" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANT1VEN0M&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=a855f7" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
@@ -107,6 +113,5 @@
   <b>Бункер Кота © 2026</b>
   
   <br/><br/>
-  <!-- Cyberpunk Footer Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35,24,12&height=90&section=footer" width="100%"/>
 </div>
