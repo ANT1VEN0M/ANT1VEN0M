@@ -39,7 +39,7 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое обновление и загрузка в РФ без необходимости стороннего VPN.
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Веб-портал / Telegram Mini App (TMA)](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
-  * **Telegram Mini App (TMA):** работает прямо внутри Telegram с поддержкой тактильной отдачи (Haptics), авто-подстройкой темы, интерактивным выбором фидов, живым замером пинга (Live Ping Meter), аварийным MTProto прокси, генерацией QR-кодов и **универсальным инспектором/дешифратором файлов** (раскалывает NapsternetV `.npvt` White-box AES CTR, Happ `happ://crypt` RSA PKCS#1 v1.5, Dark Tunnel `.dark/.dt` и qWDTT прямо в браузере!).
+  * **Telegram Mini App (TMA):** работает прямо внутри Telegram с поддержкой тактильной отдачи (Haptics), авто-подстройкой темы, интерактивным выбором фидов, живым замером пинга (Live Ping Meter), аварийным MTProto прокси, генерацией QR-кодов и **универсальным инспектором/дешифратором файлов** (раскалывает NapsternetV `.npvt` White-box AES CTR, Happ `happ://crypt` 1–5 RSA/ChaCha20, INCY `incy://` AES-GCM, `v2raytun://import`, sing-box JSON, Dark Tunnel `.dark/.dt` и qWDTT прямо в браузере!).
   * Проверяет **28 источников** (включая зеркала AeryxVPN, незаблокируемый GitLab `hub.mos.ru` и агрегатор **mehdirzfx** на 1125+ фидов) каждые 6 часов на GitHub Actions через реальное ядро Xray Core (HTTP 204 real traffic test).
   * Генерирует **470+ гарантированно живых серверов** с разделением на фиды: *Микс*, *Белый список*, *Завод 443/53*, *Турбо*, *Discord Voice & Gaming*, *Telegram SOS*.
   * **Поддержка Apple iOS (iPhone/iPad) и Windows/Mac:** подключение в 1 клик через Karing, Hiddify, v2rayN, Streisand.
@@ -61,7 +61,7 @@
 ![Trojan](https://img.shields.io/badge/Trojan-10B981?style=flat-square&logo=lock&logoColor=white)
 ![Shadowsocks 2022](https://img.shields.io/badge/Shadowsocks_2022-06B6D4?style=flat-square&logo=shield&logoColor=white)
 ![XHTTP / gRPC](https://img.shields.io/badge/XHTTP_/_gRPC-F59E0B?style=flat-square&logo=fastapi&logoColor=white)
-![NPVT / DarkTunnel / qWDTT / Happ / OpenVPN](https://img.shields.io/badge/NPVT_%E2%80%A2_DarkTunnel_%E2%80%A2_qWDTT_%E2%80%A2_Happ_%E2%80%A2_OpenVPN-8B5CF6?style=flat-square&logo=wireguard&logoColor=white)
+![NPVT / DarkTunnel / qWDTT / Happ 1-5 / INCY / V2RayTun / sing-box](https://img.shields.io/badge/NPVT_%E2%80%A2_DarkTunnel_%E2%80%A2_qWDTT_%E2%80%A2_Happ_1--5_%E2%80%A2_INCY_%E2%80%A2_V2RayTun-8B5CF6?style=flat-square&logo=wireguard&logoColor=white)
 
 #### 💻 Разработка и инфраструктура
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
