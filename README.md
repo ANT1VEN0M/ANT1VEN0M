@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.2+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%94%8C+Telegram+Plugins%3A+Neon+Loader+%26+Translator;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.3+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%94%8C+Telegram+Plugins%3A+Neon+Loader+%26+Translator;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое скачивание и обновление в РФ без необходимости стороннего VPN.
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.2)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core + WinTUN + 1-Click Auto-Updater).
+* 💻 **[Bunker VPN для Windows PC (v1.0.3)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core + WinTUN + 1-Click Auto-Updater).
   * **Глобальный TUN-режим:** маршрутизация трафика системы, браузеров, онлайн-игр и Steam через виртуальный сетевой драйвер WinTUN.
   * **Discord Voice & Full-Cone UDP:** мгновенное подключение к голосовым каналам и стримам Discord без зависания на «RTC Connecting».
   * **Умный обход (Bypass Russia):** Госуслуги, банки, Кинопоиск и VK открываются напрямую, а YouTube (4K 60fps), Discord и заблокированные сайты — через туннель Бункера.
@@ -109,11 +109,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.2)</a></h3>
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.3)</a></h3>
       <p>Нативный скоростной клиент для Windows 10/11: TUN-режим (WinTUN), Full-Cone UDP для Discord Voice и онлайн-игр, умный обход сайтов РФ, 1-Click автообновление, трей и автоподхват подписок.</p>
       <p>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E5FF&label=Релиз_v1.0.2&style=flat-square" alt="Windows Release"/></a>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.2/BunkerVPN-Windows-v1.0.2-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E5FF&label=Релиз_v1.0.3&style=flat-square" alt="Windows Release"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.3/BunkerVPN-Windows-v1.0.3-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
       </p>
     </td>
   </tr>
