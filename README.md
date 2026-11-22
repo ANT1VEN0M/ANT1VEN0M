@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.5+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%94%8C+Telegram+Plugins%3A+Neon+Loader+%26+Translator;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.6+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%94%8C+Telegram+Plugins%3A+Neon+Loader+%26+Translator;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое скачивание и обновление в РФ без необходимости стороннего VPN.
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.5)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core + WinTUN + Виджет сервисов ТСПУ + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+* 💻 **[Bunker VPN для Windows PC (v1.0.6)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core + WinTUN + Виджет сервисов ТСПУ + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
   * **Глобальный TUN-режим:** маршрутизация трафика системы, браузеров, онлайн-игр и Steam через виртуальный сетевой драйвер WinTUN.
   * **Discord Voice & Full-Cone UDP:** мгновенное подключение к голосовым каналам и стримам Discord без зависания на «RTC Connecting».
   * **Умный обход (Bypass Russia):** Госуслуги, банки, Кинопоиск и VK открываются напрямую, а YouTube (4K 60fps), Discord и заблокированные сайты — через туннель Бункера.
