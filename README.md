@@ -61,6 +61,12 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое скачивание и обновление в РФ без необходимости стороннего VPN.
 
+* 📡 **[Bunker URL Test для Android (v1.1.2 Universal)](https://github.com/ANT1VEN0M/Bunker-Url-Test)** — автономный монитор доступности интернет-сервисов и цензуры ТСПУ в реальном времени.
+  * **Edge-to-Edge UI:** нативный полноэкранный интерфейс с корректной обработкой системных Window Insets (Status Bar / Navigation Bar).
+  * **Параллельные асинхронные замеры (Coroutines):** одновременная проверка топовых сервисов (Google, Telegram, Instagram, YouTube) и пользовательских адресов с таймаутом 2500 мс.
+  * **Виджет и Quick Settings Tile:** запуск и контроль доступности прямо с рабочего стола и из шторки Android.
+  * **Постоянный релизный ключ:** универсальный APK с цифровой подписью V1+V2 для бесшовных обновлений поверх любых версий (срок действия до 2054 года).
+
 * 💻 **[Bunker VPN для Windows PC (v1.0.8)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
   * 🎮 **Режим Game Booster & Discord Fix:** Full-Cone NAT (`endpoint_independent_nat: true`) и безопасный MTU `1340` без фрагментации UDP. Мгновенный коннект к голосовым комнатам Discord Voice и стабильная игра в Brawl Stars/Roblox.
   * ⚡ **Умный гейминг-сплит:** войс Discord, сервера Supercell, Roblox и Steam Community идут через защищённый туннель, а сетевой трафик игр (CS2, Dota 2, Valorant, Мир Танков) и загрузки Steam CDN — напрямую с родным пингом 5–15 мс и гигабитной скоростью.
@@ -76,7 +82,7 @@
   * 👑 **Золотая Выборка (Gold Matrix VIP):** 100% чистый VLESS-Reality & Hysteria 2 без мусора и xHTTP, протестированный реальным HTTP 204 трафиком через Xray Core.
   * 🎮 **Game Booster фид (`sub/game.txt` / `sub/game_b64.txt`):** выделенный игровой пул с Full-Cone UDP для Discord Voice, стримов и мобильных игр (Brawl Stars).
   * Проверяет **81 проверенный источник** (включая Pozor Bond LexaVercelbot кластеры) каждый час на GitHub Actions через ядро **Xray Core (HTTP 204 real traffic test)**.
-  * **Smart Blend:** одновременное подмешивание новейшего **WARP-MASQUE (HTTP/3 QUIC)** и **WireGuard WARP+ (порт 880 с UDP Noise)** в шапку фидов (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*).
+  * **Smart Blend:** скоростной **Cloudflare WARP+ (WireGuard на порту 880/2408/443 с UDP Noise)** в шапке фидов (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*) и универсальный `sub/warp_masque_b64.txt` со 100% поддержкой AntiNET, NekoBox, Karing, Streisand и v2rayNG без ошибок `[нет модуля]`.
   * **Подключение в 1 клик для iOS (Apple iPhone/iPad):** автоматическое добавление в приложение **Karing**.
   * **Универсальный инспектор/дешифратор:** раскалывает NapsternetV `.npvt` (White-box AES CTR), Happ `happ://crypt` 1–5 (RSA/ChaCha20), INCY `incy://` (AES-GCM), Dark Tunnel `.dark/.dt`, `v2raytun://import` прямо в браузере.
   * **Поддержка роутеров (Keenetic, OpenWrt, MikroTik):** готовые `.conf` файлы WireGuard на порту 880.
