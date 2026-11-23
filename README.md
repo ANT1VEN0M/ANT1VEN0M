@@ -61,10 +61,11 @@
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое скачивание и обновление в РФ без необходимости стороннего VPN.
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.7)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+* 💻 **[Bunker VPN для Windows PC (v1.0.8)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+  * 🎮 **Режим Game Booster & Discord Fix:** Full-Cone NAT (`endpoint_independent_nat: true`) и безопасный MTU `1340` без фрагментации UDP. Мгновенный коннект к голосовым комнатам Discord Voice и стабильная игра в Brawl Stars/Roblox.
+  * ⚡ **Умный гейминг-сплит:** войс Discord, сервера Supercell, Roblox и Steam Community идут через защищённый туннель, а сетевой трафик игр (CS2, Dota 2, Valorant, Мир Танков) и загрузки Steam CDN — напрямую с родным пингом 5–15 мс и гигабитной скоростью.
   * **Полная совместимость с Sing-box 1.11+:** устранена ошибка с `legacy tun address fields` и `legacy special outbounds`, стабильный запуск TUN-режима без сбоев.
   * **Глобальный TUN-режим:** маршрутизация трафика всей ОС, браузеров, онлайн-игр и Steam через виртуальный сетевой драйвер WinTUN.
-  * **Discord Voice & Full-Cone UDP:** мгновенное подключение к голосовым каналам и стримам Discord без зависания на «RTC Connecting».
   * **Статус разблокировки сервисов (ТСПУ Grid):** живой мониторинг доступности YouTube 4K, Discord Voice, Telegram SOS, AI (GPT/Claude), Insta/X, Банков и Госуслуг прямо на главном экране.
   * **Автосортировка по пингу & URL Тест (HTTP 204):** автоматический фоновый замер задержки и поднятие самых быстрых серверов наверх.
   * **Умный обход (Smart Bypass Russia):** Госуслуги, банки, Кинопоиск и VK открываются напрямую, а YouTube (4K 60fps), Discord и заблокированные сайты — через туннель Бункера.
@@ -72,7 +73,8 @@
   * **Облачный веб-десктоп:** интерактивная сессия Windows в браузере (noVNC) для тестирования ПК-версии прямо со смартфона.
 
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Официальный веб-портал](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
-  * **👑 Золотая Выборка (Gold Matrix VIP):** 100% чистый VLESS-Reality & Hysteria 2 без мусора и xHTTP, протестированный реальным HTTP 204 трафиком через Xray Core.
+  * 👑 **Золотая Выборка (Gold Matrix VIP):** 100% чистый VLESS-Reality & Hysteria 2 без мусора и xHTTP, протестированный реальным HTTP 204 трафиком через Xray Core.
+  * 🎮 **Game Booster фид (`sub/game.txt` / `sub/game_b64.txt`):** выделенный игровой пул с Full-Cone UDP для Discord Voice, стримов и мобильных игр (Brawl Stars).
   * Проверяет **81 проверенный источник** (включая Pozor Bond LexaVercelbot кластеры) каждый час на GitHub Actions через ядро **Xray Core (HTTP 204 real traffic test)**.
   * **Smart Blend:** одновременное подмешивание новейшего **WARP-MASQUE (HTTP/3 QUIC)** и **WireGuard WARP+ (порт 880 с UDP Noise)** в шапку фидов (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*).
   * **Подключение в 1 клик для iOS (Apple iPhone/iPad):** автоматическое добавление в приложение **Karing**.
@@ -171,12 +173,12 @@
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.7)</a></h3>
-      <p>Нативный скоростной клиент для Windows 10/11: TUN-режим (WinTUN), совместимость с Sing-box 1.11+, виджет сервисов ТСПУ, URL Test (HTTP 204), Full-Cone UDP для Discord Voice и онлайн-игр, автосортировка по пингу, 1-Click автообновление, трей и облачный веб-десктоп.</p>
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.8)</a></h3>
+      <p>Нативный скоростной клиент для Windows 10/11: встроенный <b>Game Booster &amp; Discord Fix</b> (Full-Cone NAT, MTU 1340), TUN-режим (WinTUN), совместимость с Sing-box 1.11+, виджет сервисов ТСПУ, URL Test (HTTP 204), автосортировка по пингу, 1-Click автообновление, трей и облачный веб-десктоп.</p>
       <p>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E5FF&label=Релиз_v1.0.7&style=flat-square" alt="Windows Release"/></a>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.7/BunkerVPN-Windows-v1.0.7-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
-        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.7/BunkerVPN-Windows-v1.0.7-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E676&label=Релиз_v1.0.8&style=flat-square" alt="Windows Release"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.8/BunkerVPN-Windows-v1.0.8-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
+        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.8/BunkerVPN-Windows-v1.0.8-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
       </p>
     </td>
   </tr>
