@@ -81,7 +81,7 @@
 
 * 🔌 **[Telegram Plugins (exteraGram / AyuGram / NimarkoGram)](https://github.com/ANT1VEN0M/Bunker-Auto-Engine/tree/main/plugins)**:
   * 💫 **Bunker Neon Loader (v1.3.1):** ультра-стабильный неоновый RGB-спиннер/лоадер загрузки медиа без вылетов и с полной поддержкой AyuGram.
-  * 🌐 **Bunker Chat Translator (v1.2.6):** инлайн-переводчик чатов в реальном времени без сторонних API-ключей.
+  * 🌐 **Bunker Chat Translator (v1.2.7):** инлайн-переводчик чатов в реальном времени (Anti-Crash Edition, плавный запуск без сбоев жизненного цикла).
   * 📋 **Репозиторий плагинов:** `https://raw.githubusercontent.com/ANT1VEN0M/Bunker-Auto-Engine/main/extera-plugins.json`
 
 * ⚡ **[Bunker Parser](https://github.com/ANT1VEN0M/BunkerParser)** — высокоскоростной автономный Android-парсер и нормализатор конфигураций на Xray.
@@ -190,7 +190,7 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/tree/main/plugins">🔌 Telegram Plugins (exteraGram / AyuGram)</a></h3>
-      <p>Фирменные плагины Бункера: неоновый RGB-лоадер <b>Bunker Neon Loader v1.3.1</b> (защита от вылетов, сочные цвета) и инлайн-переводчик чатов <b>Bunker Chat Translator v1.2.6</b>.</p>
+      <p>Фирменные плагины Бункера: неоновый RGB-лоадер <b>Bunker Neon Loader v1.3.1</b> (защита от вылетов, сочные цвета) и инлайн-переводчик чатов <b>Bunker Chat Translator v1.2.7</b> (Anti-Crash, плавный вход).</p>
       <p>
         <a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/raw/main/plugins/bunker_neon_loader.plugin"><img src="https://img.shields.io/badge/Скачать-Neon_Loader-FF6D00?style=flat-square&logo=telegram&logoColor=white" alt="Neon Loader"/></a>
         <a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine/raw/main/plugins/bunker_chat_translator.plugin"><img src="https://img.shields.io/badge/Скачать-Translator-00E5FF?style=flat-square&logo=telegram&logoColor=white" alt="Translator"/></a>
