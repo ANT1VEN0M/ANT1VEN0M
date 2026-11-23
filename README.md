@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.6+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%94%8C+Telegram+Plugins%3A+Neon+Loader+%26+Translator;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.1+%26+Windows+v1.0.7+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Discord+Fix;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,14 @@
   &nbsp;
   <a href="https://t.me/BUNKER_KOTA">
     <img src="https://img.shields.io/badge/👥_Аудитория-1400+_подписчиков-10B981?style=for-the-badge&logo=telegram&logoColor=white" alt="1400 Subscribers"/>
+  </a>
+  &nbsp;
+  <a href="https://finance.ozon.ru/apps/sbp/ozonbankpay/01a1daa7-59df-7009-9fee-796763044ce6" target="_blank">
+    <img src="https://img.shields.io/badge/💖_Поддержать_Бункер-СБП_(Озон_Банк)-FF0055?style=for-the-badge&logo=heart&logoColor=white" alt="Донат по СБП"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/boost/BUNKER_KOTA" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Boost_Канала-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Boost"/>
   </a>
   &nbsp;
   <a href="https://t.me/BUNKER_K0TA">
@@ -46,13 +54,15 @@
 Разрабатываю передовые открытые решения для высокоскоростного обхода блокировок, интеллектуальной маршрутизации и защиты сетевого трафика в условиях ТСПУ:
 
 * 📱 **[Bunker VPN для Android (v1.4.1)](https://github.com/ANT1VEN0M/BunkerVPN)** — флагманский мобильный VPN-клиент на базе **Xray Core Lite** и Jetpack Compose.
+  * **Themed Icon (Pixel / Material You):** векторная адаптивная монохромная иконка для лаунчера Google Pixel и Android 13+.
   * **Кастомные обои (Android 14–17 / Pixel 8):** современный Google Photo Picker, безопасное масштабирование тяжелых 50-мегапиксельных снимков камер, поддержка любых фонов без конфликта со Stealth.
   * **Режим «Stealth»:** чистый глубокий OLED-черный интерфейс (`#000000`) с компактной шапкой **48dp** без лишнего визуального шума.
   * **Безотказный WARP+ на порту 880:** встроенный офлайн-пул готовых ключей Cloudflare с байтами рукопожатия `client_id` и защитой от DPI.
   * **Аппаратный Kill-Switch:** блокировка утечек DNS и трафика с сохранением стабильности Wi-Fi (NDP/ICMPv6).
   * **Скоростные зеркала (`ghfast.top`):** прямое скачивание и обновление в РФ без необходимости стороннего VPN.
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.6)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+* 💻 **[Bunker VPN для Windows PC (v1.0.7)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+  * **Полная совместимость с Sing-box 1.11+:** устранена ошибка с `legacy tun address fields` и `legacy special outbounds`, стабильный запуск TUN-режима без сбоев.
   * **Глобальный TUN-режим:** маршрутизация трафика всей ОС, браузеров, онлайн-игр и Steam через виртуальный сетевой драйвер WinTUN.
   * **Discord Voice & Full-Cone UDP:** мгновенное подключение к голосовым каналам и стримам Discord без зависания на «RTC Connecting».
   * **Статус разблокировки сервисов (ТСПУ Grid):** живой мониторинг доступности YouTube 4K, Discord Voice, Telegram SOS, AI (GPT/Claude), Insta/X, Банков и Госуслуг прямо на главном экране.
@@ -75,6 +85,26 @@
 
 * ⚡ **[Bunker Parser](https://github.com/ANT1VEN0M/BunkerParser)** — высокоскоростной автономный Android-парсер и нормализатор конфигураций на Xray.
 * 🤖 **Bunker OS Bot ([@BunkerCatOSBot](https://t.me/BunkerCatOSBot))** — Telegram-бот Бункера для публикации конфигураций и быстрой поддержки.
+
+---
+
+### 💖 ПОДДЕРЖКА ПРОЕКТА БУНКЕР КОТА (ДОНАТЫ)
+
+Бункер Кота — полностью независимый проект. Все серверные мощности, защита от блокировок ТСПУ, скоростные ноды и разработка нативных приложений для Windows и Android держатся на чистом энтузиазме и вашей поддержке! Любая поддержка помогает держать сервера на максимальной скорости и оставаться на связи. 🐾⚡
+
+<p align="center">
+  <a href="https://finance.ozon.ru/apps/sbp/ozonbankpay/01a1daa7-59df-7009-9fee-796763044ce6" target="_blank">
+    <img src="https://img.shields.io/badge/💳_Перевести_по_СБП-(Озон_Банк_в_1_клик)-005BFF?style=for-the-badge&logo=visa&logoColor=white" alt="Озон Банк СБП Донат"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/boost/BUNKER_KOTA" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Прокачать_Канал-Telegram_Boost-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Boost"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/k0tlux" target="_blank">
+    <img src="https://img.shields.io/badge/💎_Крипта_(USDT_/_TON)-Написать_@k0tlux-10B981?style=for-the-badge&logo=tether&logoColor=white" alt="Crypto Donate"/>
+  </a>
+</p>
 
 ---
 
@@ -133,19 +163,19 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN">📱 Bunker VPN for Android (v1.4.1)</a></h3>
-      <p>Официальный Android-клиент Бункера: кастомные обои (Android 14–17 / Pixel 8), Stealth-минимализм (OLED), встроенный Cloudflare WARP+ (порт 880), защита от утечек Kill-Switch и чистый UI.</p>
+      <p>Официальный Android-клиент Бункера: адаптивная иконка Pixel Material You, кастомные обои (Android 14–17 / Pixel 8), Stealth-минимализм (OLED), встроенный Cloudflare WARP+ (порт 880), защита от утечек Kill-Switch и чистый UI.</p>
       <p>
         <a href="https://github.com/ANT1VEN0M/BunkerVPN/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN?color=7C3AED&label=Релиз_v1.4.1&style=flat-square" alt="Release"/></a>
         <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN/releases/download/v1.4.1/BunkerVPN-arm64-v8a.apk"><img src="https://img.shields.io/badge/Скачать-ARM64-10B981?style=flat-square&logo=android&logoColor=white" alt="Download ARM64"/></a>
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.6)</a></h3>
-      <p>Нативный скоростной клиент для Windows 10/11: TUN-режим (WinTUN), виджет сервисов ТСПУ, URL Test (HTTP 204), Full-Cone UDP для Discord Voice и онлайн-игр, автосортировка по пингу, 1-Click автообновление, трей и облачный веб-десктоп.</p>
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.7)</a></h3>
+      <p>Нативный скоростной клиент для Windows 10/11: TUN-режим (WinTUN), совместимость с Sing-box 1.11+, виджет сервисов ТСПУ, URL Test (HTTP 204), Full-Cone UDP для Discord Voice и онлайн-игр, автосортировка по пингу, 1-Click автообновление, трей и облачный веб-десктоп.</p>
       <p>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E5FF&label=Релиз_v1.0.6&style=flat-square" alt="Windows Release"/></a>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.6/BunkerVPN-Windows-v1.0.6-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
-        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.6/BunkerVPN-Windows-v1.0.6-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E5FF&label=Релиз_v1.0.7&style=flat-square" alt="Windows Release"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.7/BunkerVPN-Windows-v1.0.7-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
+        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.7/BunkerVPN-Windows-v1.0.7-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
       </p>
     </td>
   </tr>
