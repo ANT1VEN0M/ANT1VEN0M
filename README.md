@@ -72,7 +72,7 @@
   * **Облачный веб-десктоп:** интерактивная сессия Windows в браузере (noVNC) для тестирования ПК-версии прямо со смартфона.
 
 * 🌐 **[Bunker-Auto-Engine](https://github.com/ANT1VEN0M/Bunker-Auto-Engine) & [Официальный веб-портал](https://ant1ven0m.github.io/Bunker-Auto-Engine/)** — автономный движок автопилота подписок и универсальный портал подключения:
-  * Проверяет **74 проверенных источника** каждый час на GitHub Actions через ядро **Xray Core (HTTP 204 real traffic test)**.
+  * Проверяет **81 проверенный источник** (включая Pozor Bond LexaVercelbot кластеры) каждый час на GitHub Actions через ядро **Xray Core (HTTP 204 real traffic test)**.
   * **Smart Blend:** одновременное подмешивание новейшего **WARP-MASQUE (HTTP/3 QUIC)** и **WireGuard WARP+ (порт 880 с UDP Noise)** в шапку всех подписок (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*).
   * **Подключение в 1 клик для iOS (Apple iPhone/iPad):** автоматическое добавление в приложение **Karing**.
   * **Универсальный инспектор/дешифратор:** раскалывает NapsternetV `.npvt` (White-box AES CTR), Happ `happ://crypt` 1–5 (RSA/ChaCha20), INCY `incy://` (AES-GCM), Dark Tunnel `.dark/.dt`, `v2raytun://import` прямо в браузере.
