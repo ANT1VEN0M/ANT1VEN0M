@@ -181,8 +181,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">⚡ Bunker-Auto-Engine & Портал</a></h3>
-      <p>Автономный движок подписок (74 источника) + портал подключения: глубокая фильтрация через Xray HTTP 204, WARP-MASQUE (HTTP/3) и быстрое подключение для iOS (Karing) и роутеров.</p>
+      <h3><a href="https://github.com/ANT1VEN0M/Bunker-Auto-Engine">👑 Bunker-Auto-Engine & Портал</a></h3>
+      <p>Автономный движок подписок (81 источник) + <b>Золотая Выборка TOP-25 VIP</b>: глубокая фильтрация через Xray HTTP 204, WARP-MASQUE (HTTP/3) и быстрое подключение для iOS (Karing) и роутеров.</p>
       <p>
         <a href="https://ant1ven0m.github.io/Bunker-Auto-Engine/"><img src="https://img.shields.io/badge/Портал-1_клик-0088cc?style=flat-square&logo=googlechrome&logoColor=white" alt="Portal"/></a>
       </p>
