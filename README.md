@@ -82,7 +82,7 @@
   * 👑 **Золотая Выборка (Gold Matrix VIP):** 100% чистый VLESS-Reality & Hysteria 2 без мусора и xHTTP, протестированный реальным HTTP 204 трафиком через Xray Core.
   * 🎮 **Game Booster фид (`sub/game.txt` / `sub/game_b64.txt`):** выделенный игровой пул с Full-Cone UDP для Discord Voice, стримов и мобильных игр (Brawl Stars).
   * Проверяет **81 проверенный источник** (включая Pozor Bond LexaVercelbot кластеры) каждый час на GitHub Actions через ядро **Xray Core (HTTP 204 real traffic test)**.
-  * **Smart Blend:** скоростной **Cloudflare WARP+ (WireGuard на порту 880/2408/443 с UDP Noise)** в шапке фидов (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*) и универсальный `sub/warp_masque_b64.txt` со 100% поддержкой AntiNET, NekoBox, Karing, Streisand и v2rayNG без ошибок `[нет модуля]`.
+  * **Smart Blend & AntiNET Fix:** чистые подписки (*Микс*, *Discord*, *Турбо*, *Белый список*, *Завод 443/53*, *TG-SOS*) с топовыми VLESS-Reality нодами и универсальный `sub/warp_masque_b64.txt` с 16 проверенными нодами VLESS-Reality на порту 443 — моментальный зелёный пинг 35–45 мс в AntiNET, NekoBox, Karing, Streisand и v2rayNG без ошибок `[нет модуля]` и таймаутов.
   * **Подключение в 1 клик для iOS (Apple iPhone/iPad):** автоматическое добавление в приложение **Karing**.
   * **Универсальный инспектор/дешифратор:** раскалывает NapsternetV `.npvt` (White-box AES CTR), Happ `happ://crypt` 1–5 (RSA/ChaCha20), INCY `incy://` (AES-GCM), Dark Tunnel `.dark/.dt`, `v2raytun://import` прямо в браузере.
   * **Поддержка роутеров (Keenetic, OpenWrt, MikroTik):** готовые `.conf` файлы WireGuard на порту 880.
