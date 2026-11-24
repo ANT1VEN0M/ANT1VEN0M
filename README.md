@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.3+%26+Windows+v1.0.8+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.3+%26+Windows+v1.0.9+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,7 +67,8 @@
   * **Виджет и Quick Settings Tile:** запуск и контроль доступности прямо с рабочего стола и из шторки Android.
   * **Постоянный релизный ключ:** универсальный APK с цифровой подписью V1+V2 для бесшовных обновлений поверх любых версий (срок действия до 2054 года).
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.8)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+* 💻 **[Bunker VPN для Windows PC (v1.0.9)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+  * 🛡️ **Hotfix sing-box 1.11+ GeoIP/GeoSite:** устранено мигание кнопки «Подключить», мгновенный офлайн-старт маршрутизации через `domain_suffix` без скачивания баз с GitHub.
   * 🎮 **Режим Game Booster & Discord Fix:** Full-Cone NAT (`endpoint_independent_nat: true`) и безопасный MTU `1340` без фрагментации UDP. Мгновенный коннект к голосовым комнатам Discord Voice и стабильная игра в Brawl Stars/Roblox.
   * ⚡ **Умный гейминг-сплит:** войс Discord, сервера Supercell, Roblox и Steam Community идут через защищённый туннель, а сетевой трафик игр (CS2, Dota 2, Valorant, Мир Танков) и загрузки Steam CDN — напрямую с родным пингом 5–15 мс и гигабитной скоростью.
   * **Полная совместимость с Sing-box 1.11+:** устранена ошибка с `legacy tun address fields` и `legacy special outbounds`, стабильный запуск TUN-режима без сбоев.
