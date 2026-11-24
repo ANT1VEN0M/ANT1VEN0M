@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.2+%26+Windows+v1.0.8+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.3+%26+Windows+v1.0.8+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,7 +53,7 @@
 
 Разрабатываю передовые открытые решения для высокоскоростного обхода блокировок, интеллектуальной маршрутизации и защиты сетевого трафика в условиях ТСПУ:
 
-* 📱 **[Bunker VPN для Android (v1.4.2)](https://github.com/ANT1VEN0M/BunkerVPN)** — флагманский мобильный VPN-клиент на базе **Xray Core Lite** и Jetpack Compose (Hotfix раздельного туннелирования для Android 14–17 / Private Space / Dual Apps).
+* 📱 **[Bunker VPN для Android (v1.4.3)](https://github.com/ANT1VEN0M/BunkerVPN)** — флагманский мобильный VPN-клиент на базе **Xray Core Lite** и Jetpack Compose (Hotfix раздельного туннелирования для Android 14–17 / Private Space / Dual Apps + починен режим Allowlist и YouTube).
   * **Themed Icon (Pixel / Material You):** векторная адаптивная монохромная иконка для лаунчера Google Pixel и Android 13+.
   * **Кастомные обои (Android 14–17 / Pixel 8):** современный Google Photo Picker, безопасное масштабирование тяжелых 50-мегапиксельных снимков камер, поддержка любых фонов без конфликта со Stealth.
   * **Режим «Stealth»:** чистый глубокий OLED-черный интерфейс (`#000000`) с компактной шапкой **48dp** без лишнего визуального шума.
