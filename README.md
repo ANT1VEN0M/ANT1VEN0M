@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://t.me/BUNKER_KOTA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.3+%26+Windows+v1.0.9+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Welcome+to+the+Bunker+Ecosystem;%F0%9F%91%A5+1400%2B+Subscribers+in+Bunker+Community;%F0%9F%9B%A1%EF%B8%8F+Bunker+VPN+Android+v1.4.3+%26+Windows+v1.0.11+Live;%F0%9F%92%BB+Native+PC+Client+with+WinTUN+%26+Game+Booster;%F0%9F%8D%8F+1-Click+Onboarding+for+iOS%2C+Android%2C+PC+%26+Mac;%F0%9F%92%96+Support+Bunker+via+SBP+Ozon+Bank+%26+Boost;%F0%9F%90%88%E2%80%8D%E2%AC%9B+WARP-MASQUE+(HTTP%2F3)+%E2%80%A2+WireGuard+880+%E2%80%A2+Xray" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,8 +67,12 @@
   * **Виджет и Quick Settings Tile:** запуск и контроль доступности прямо с рабочего стола и из шторки Android.
   * **Постоянный релизный ключ:** универсальный APK с цифровой подписью V1+V2 для бесшовных обновлений поверх любых версий (срок действия до 2054 года).
 
-* 💻 **[Bunker VPN для Windows PC (v1.0.9)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
-  * 🛡️ **Hotfix sing-box 1.11+ GeoIP/GeoSite:** устранено мигание кнопки «Подключить», мгновенный офлайн-старт маршрутизации через `domain_suffix` без скачивания баз с GitHub.
+* 💻 **[Bunker VPN для Windows PC (v1.0.11)](https://github.com/ANT1VEN0M/BunkerVPN-Windows)** — нативный скоростной клиент для компьютеров и ноутбуков на Windows 10 / 11 (.NET 8 WPF + Sing-box Core 1.11.4 + WinTUN + Ultra-Speed & Anti-Freeze + Виджет сервисов ТСПУ + Game Booster & Discord Fix + URL Test + Автосортировка по пингу + 1-Click Auto-Updater).
+  * 🛡️ **Anti-Freeze Hotfix (100% стабильность):** отключение переведено в полностью асинхронный фоновый поток, интерфейс никогда не зависает, кнопка мгновенно переходит в режим `ОТКЛЮЧЕНИЕ...` с защитой от повторных кликов.
+  * ⚡ **Ultra-Speed & DNS Zero-Lag:** фиксированный безопасный MTU 1360 (устранена 3-минутная задержка отправки в Telegram), стек `mixed` (gVisor TCP + нативный UDP) и защищённый DoH `https://76.76.2.11/p0` через прокси.
+  * 🔄 **Фикс автообновления:** таймаут скачивания инсталлера расширен до 10 минут (устранена ошибка `HttpClient.Timeout of 15 seconds`).
+  * 🎨 **Редизайн и улучшение отображения:** чистые названия серверов (`CleanName`), новая скругленная кнопка подключения с неоновым свечением, аппаратный рендеринг ClearType.
+  * 🪟 **Свободный ресайз окна:** изменение размера за любые рамки и кнопка разворачивания `🗖`.
   * 🎮 **Режим Game Booster & Discord Fix:** Full-Cone NAT (`endpoint_independent_nat: true`) и безопасный MTU `1340` без фрагментации UDP. Мгновенный коннект к голосовым комнатам Discord Voice и стабильная игра в Brawl Stars/Roblox.
   * ⚡ **Умный гейминг-сплит:** войс Discord, сервера Supercell, Roblox и Steam Community идут через защищённый туннель, а сетевой трафик игр (CS2, Dota 2, Valorant, Мир Танков) и загрузки Steam CDN — напрямую с родным пингом 5–15 мс и гигабитной скоростью.
   * **Полная совместимость с Sing-box 1.11+:** устранена ошибка с `legacy tun address fields` и `legacy special outbounds`, стабильный запуск TUN-режима без сбоев.
@@ -172,20 +176,20 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN">📱 Bunker VPN for Android (v1.4.2)</a></h3>
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN">📱 Bunker VPN for Android (v1.4.3)</a></h3>
       <p>Официальный Android-клиент Бункера: Hotfix раздельного туннелирования (Android 14–17 / Private Space / Dual Apps), адаптивная иконка Pixel Material You, кастомные обои (Android 14–17 / Pixel 8), Stealth-минимализм (OLED), встроенный Cloudflare WARP+ (порт 880) и чистый UI.</p>
       <p>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN?color=7C3AED&label=Релиз_v1.4.2&style=flat-square" alt="Release"/></a>
-        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN/releases/download/v1.4.2/BunkerVPN-arm64-v8a.apk"><img src="https://img.shields.io/badge/Скачать-ARM64-10B981?style=flat-square&logo=android&logoColor=white" alt="Download ARM64"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN?color=7C3AED&label=Релиз_v1.4.3&style=flat-square" alt="Release"/></a>
+        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN/releases/download/v1.4.3/BunkerVPN-arm64-v8a.apk"><img src="https://img.shields.io/badge/Скачать-ARM64-10B981?style=flat-square&logo=android&logoColor=white" alt="Download ARM64"/></a>
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.8)</a></h3>
-      <p>Нативный скоростной клиент для Windows 10/11: встроенный <b>Game Booster &amp; Discord Fix</b> (Full-Cone NAT, MTU 1340), TUN-режим (WinTUN), совместимость с Sing-box 1.11+, виджет сервисов ТСПУ, URL Test (HTTP 204), автосортировка по пингу, 1-Click автообновление, трей и облачный веб-десктоп.</p>
+      <h3><a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows">💻 Bunker VPN for Windows PC (v1.0.11)</a></h3>
+      <p>Нативный скоростной клиент для Windows 10/11: встроенный <b>Game Booster &amp; Discord Fix</b>, TUN-режим (WinTUN), <b>Anti-Freeze асинхронное отключение</b>, безопасный MTU 1360 без лагов, DoH DNS через туннель, свободный ресайз окна, виджет ТСПУ и 1-Click автообновление.</p>
       <p>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E676&label=Релиз_v1.0.8&style=flat-square" alt="Windows Release"/></a>
-        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.8/BunkerVPN-Windows-v1.0.8-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
-        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.8/BunkerVPN-Windows-v1.0.8-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/ANT1VEN0M/BunkerVPN-Windows?color=00E676&label=Релиз_v1.0.11&style=flat-square" alt="Windows Release"/></a>
+        <a href="https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.11/BunkerVPN-Windows-v1.0.11-Setup.exe"><img src="https://img.shields.io/badge/Скачать-Setup.exe-00E676?style=flat-square&logo=windows&logoColor=white" alt="Download Setup"/></a>
+        <a href="https://ghfast.top/https://github.com/ANT1VEN0M/BunkerVPN-Windows/releases/download/v1.0.11/BunkerVPN-Windows-v1.0.11-Setup.exe"><img src="https://img.shields.io/badge/Зеркало_РФ-ghfast.top-00B0FF?style=flat-square&logo=windows&logoColor=white" alt="Mirror Setup"/></a>
       </p>
     </td>
   </tr>
